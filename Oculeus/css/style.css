@@ -1,0 +1,58 @@
+
+body{
+	font-family: 'Work Sans', sans-serif;
+}
+
+a:hover{
+	text-decoration: none;
+}
+.navbg{
+	background: linear-gradient(to right,  #060B05, #134f04, #2bba07);
+}
+
+#footer {
+	background: linear-gradient(to right,  #2bba07, #134f04, #060B05);
+}
+
+.navbg img {
+	width: 100px;
+}
+
+#title h1 {
+	text-shadow: 3px 2px 2px #adadad;
+	font-weight: bold
+}
+.col-12 {
+	
+	height: 240px;
+}
+#description .bg1 {
+	background-image: url('../image/bridge.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+} 
+
+#description .voice {
+	background-color: rgba(13, 56, 2, 0.7);
+	min-height: 240px;
+}
+#description  h1 {
+	font-size: 20px;
+}
+#description  p {
+	font-size: 14px;
+}
+
+#description .bg2 {
+	background-image: url('../image/forest.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 240px;
+} 
+
+#description i {
+	position: absolute;
+	bottom: 20px;
+} 
+
+
